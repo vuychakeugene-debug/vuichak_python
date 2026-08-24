@@ -48,3 +48,13 @@
 # Task 7
 # import keyword
 # print(keyword.kwlist)
+
+
+# Task 8
+var_1 = 42
+var_2 = 3.14
+var_3 = "Hello"
+print(type(var_1), ' ', type(var_2), ' ', type(var_3))
+var_3 = 34
+print(type(var_1), ' ', type(var_2), ' ', type(var_3))
+
