@@ -15,8 +15,25 @@
 
 
 # Task 3
-a = 7
-b = a
-a = 10
-print(a)
-print(b)
+# a = 7
+# b = a
+# a = 10
+# print(a)
+# print(b)
+
+# Task 4
+x = y = z = 100
+print(x)
+print(y)
+print(z)
+print(id(x))
+print(id(y))
+print(id(z))
+
+x, y, z = 99, 200, 300
+print(x)
+print(y)
+print(z)
+print(id(x))
+print(id(y))
+print(id(z))
