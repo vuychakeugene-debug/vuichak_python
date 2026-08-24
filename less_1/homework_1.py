@@ -39,8 +39,12 @@
 # print(id(z))
 
 # Task 5
-a = 5
-b = 10
-print(a, " ", b)
-a, b = b, a
-print(a, " ", b)
+# a = 5
+# b = 10
+# print(a, " ", b)
+# a, b = b, a
+# print(a, " ", b)
+
+# Task 7
+# import keyword
+# print(keyword.kwlist)
